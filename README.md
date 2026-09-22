@@ -3,5 +3,5 @@
 
 # cobrinhahtml
 <picture>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/wanessa1128/wanessa1128/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/wanessa1128/wanessa1128/refs/heads/output/snake.svg">
 </picture>
